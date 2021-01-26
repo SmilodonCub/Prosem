@@ -1,0 +1,195 @@
+intro to psychophysical methods
+========================================================
+author: Bonnie Cooper
+date: 
+autosize: true
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVxZQ3tTWSOId61h1ZbV8TFJ7dL9ZUHGg-w&usqp=CAU" height="75%" width="75%" />
+
+
+Psychophysical Methodology
+========================================================
+
+**Psychophysics**:  
+quantifying a relationship between stimulus & perception
+
+***
+<br><br>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85ZHWzXibb_4VzQ5sBlAmu1ZQxk5n54-LVA&usqp=CAU" />
+
+Psychophysical Methodology
+========================================================
+
+* Thresholds
+* The Psychometric Function
+* Methods for determining Thresholds
+* Signal Detection Theory
+* Weber's Law
+
+***
+<br><br>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85ZHWzXibb_4VzQ5sBlAmu1ZQxk5n54-LVA&usqp=CAU" />
+
+
+Revisit the Photopic Luminosity Function
+========================================================
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/8/8f/LumEffCIE.jpeg" height="75%" width="75%" />
+
+
+Thresholds
+========================================================
+
+**threshold** - minimum quantity of the stimulus that can be detected or discriminated
+
+<img src = "https://understandinglowvision.com/wp-content/uploads/2018/10/CSF.jpg" height="50%" width="100%" />
+
+
+Psychometric Function
+========================================================
+
+<img src = "https://webvision.med.utah.edu/imageswv/Kall05.jpeg" height="50%" width="50%" />
+
+Psychophysical Methodology
+========================================================
+
+* Method of Adjustment
+* Method of Ascending Limits
+* Method of Descending Limits
+* Staircase Methods
+* Method of Constant Stimuli
+
+
+
+Method of Adjustment
+========================================================
+
+* The stimulus intensity is adjusted to threshold by the observer
+* Generally repeat each measurement several times & the threshold is taken as the average
+* PROS: very fast!
+* CONS: entirely up to the subject to set criterion & find threshold.
+
+***
+
+<img src ="data:image/jpeg;base64,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" height="100%" width="100%" />
+
+
+Method of (Ascending | Descending ) Limits
+========================================================
+
+<small>
+* **Ascending**: The stimulus intensity is gradually increased & the subject indicates if it is present or not
+* **Descending**: The stimulus intensity is gradually decreased & the subject indicates if it is present or not. (Very common in clinic: e.g. Snellen acuity test.)
+* Generally repeat each set several times & the threshold is taken as the average
+* PROS: great for sensitive adaptation states.
+* CONS: the subject's anticipation can influence thresholds
+</small>
+
+***
+
+<img src = "https://slideplayer.com/slide/4573100/15/images/12/Stimulus+no+longer+detected+Threshold%3A+average+stimulus+intensity.jpg" />
+
+
+Adaptive Methods: Staircases
+========================================================
+
+<small>
+* Staircases generally starts well above threshold and turns 'corners' when the stimulus is either just subthreshold or just above.
+* Generally repeat each staircase several times. The threshold for one staircase is taken as the average of the last several corners of the staircase.
+* PROS: very thorough & flexible. Investigator can design the # of corners, size of steps etc.
+* CONS: the subject's anticipation can still influence thresholds.
+</small>
+
+***
+
+<img src = "https://webvision.med.utah.edu/imageswv/Kall06.jpeg" />
+
+Method of Constant Stimuli
+========================================================
+<small>
+* MoCS takes a range of stimulus intensity values and randomly shuffles them
+* Trials with no stimuli present allow the investigator to measure false positive rates
+* A psychometric function can be build &threshold is generally taken where 50% chance detection takes place
+* PROS: a false positive measure is informative of the subjects criterion. The subjects anticipation does not have as strong an effect as the previous methods
+* CONS: for this & all the previous methods, the subjects criteria may drift during the experiments or between blocks of data collection
+</small>  
+
+***
+
+<img src = "https://slideplayer.com/slide/4573100/15/images/15/Method+of+constant+stimuli.jpg" />
+
+
+Forced Choice Methods: 2AFC, nAFC
+========================================================
+
+* n alternatives are presented. The subject must chose which the stimulus was presented in
+* may be spatial or temporal intervals
+
+***
+
+<img src = "https://ars.els-cdn.com/content/image/1-s2.0-S001002851830032X-gr2.jpg" />
+
+Psychometric Functions
+========================================================
+
+<img src = "https://webvision.med.utah.edu/imageswv/Kall05.jpeg" height="75%" width="75%" />
+
+***
+
+Different psychophysical methods can be used to build psychometric functions that describe the same process
+
+As is the case with the human Photopic Luminosity Function (Lennie et al 1993)
+
+
+Introduction to Signal Detection Theory
+========================================================
+
+<img src = "https://i0.wp.com/duotechservices.com/wp-content/uploads/2017/02/how-radar-detect-track-and-attack-through-the-clutter.jpg?fit=890%2C524&ssl=1" />
+
+Signal Detection Theory & Psychophysics
+========================================================
+
+<img src = "https://images-na.ssl-images-amazon.com/images/I/61vZ1M-sIuL._AC_UL600_SR399,600_.jpg" />
+
+
+Detecting a Signal Against Noise
+========================================================
+<br><br>
+**Signal**: is there an enemy aircraft?  
+**Decision**: Should I raise an alarm
+
+**Signal**: is there a stimulus present?  
+**Decision**: Should I indicate that I saw the stimulus?
+
+***
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgam9BZJ4j6plnjR2Z45VEnQLZn0Ow8TpmNg&usqp=CAU" height="100%" width="100%" />
+
+Detecting a Signal Against Noise
+========================================================
+
+<img src = "https://www.cis.rit.edu/people/faculty/montag/vandplite/images/chapter_5/sigdet.gif" height="75%" width="75%" />
+
+
+Reciever Operator Characteristic
+========================================================
+
+<img src = "https://st2.ning.com/topology/rest/1.0/file/get/1341805045?profile=original" height="75%" width="75%" />
+
+Weber's Law
+========================================================
+
+<img src = "https://www.cis.rit.edu/people/faculty/montag/vandplite/images/chapter_3/webplot.gif" "75%" width="75%" />
+
+***
+<br><br>
+<img src = "https://hearinghealthmatters.org/wp-content/uploads/sites/11/files/2013/01/jnd1.jpg" "100%" width="100%" />
+
+
+========================================================
+
+"In order that the intensity of a sensation may increase in arithmetical progression, the stimulus must increase in geometrical progression."
+
+***
+<br><br>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85ZHWzXibb_4VzQ5sBlAmu1ZQxk5n54-LVA&usqp=CAU" />

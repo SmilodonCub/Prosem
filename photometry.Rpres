@@ -1,0 +1,187 @@
+photometry & radiometry
+========================================================
+author: Bonnie Cooper
+date: 
+autosize: true
+
+<img src="https://cdn.factcheck.org/UploadedFiles/lightbulb.jpg" height="150%" width="150%" />
+
+Concepts & Units
+========================================================
+
+- **Radiometry**: measurements of light in the physical world
+- **Photometry**: measurements of light in the perceived world
+
+***
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cartesian_Theater.svg/300px-Cartesian_Theater.svg.png" height="125%" width="125%" />
+
+
+Luminous & Radiometric Power
+========================================================
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELyHPPEuOedMp_jeO3pc_85X9Z4xU9zObTQ&usqp=CAU" height="150%" width="150%" />
+
+***
+
+* **Luminous Power**
+  + Total percieved light power emitted from a light source
+  + Units: Lumens
+* **Radiometric Power**:
+  + Total emitted radiant energy from a radiant body
+  + Units: Watts, J/sec
+
+
+...and now for some trivial examples
+========================================================
+Luminous power? ....radiant power?
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9KrsdubjuLKhK-tH_U0jgWU99F-L9t3A9A&usqp=CAU" height="50%" width="50%" />
+
+
+...
+========================================================
+No, Luminous & Radiant power quantifies the light emitted from a source
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9KrsdubjuLKhK-tH_U0jgWU99F-L9t3A9A&usqp=CAU" height="50%" width="50%" />
+
+...and now for another trivial example
+========================================================
+Luminous power? ....radiant power?
+
+<img src = "https://thebiomedicalscientist.net/sites/default/files/media/image/2017/web_istock-182175794.jpg" />
+
+...
+========================================================
+...maybe?
+
+<img src = "https://thebiomedicalscientist.net/sites/default/files/media/image/2017/web_istock-182175794.jpg" />
+
+...perhaps not so trivial?
+========================================================
+
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmIMj0lVAl9Mnx5o0Q7i2NzSMaN9i97rqmg&usqp=CAU" height="65%" width="65%" />
+
+
+What other types of luminescence are there?
+========================================================
+
+* **Flourescence**
+* **Bioluminescence**
+* **Chemoluminescence**
+* **Photoluminescence**
+* **Röntgenoluminescence**
+* **Sonoluminescence**
+* **Thermoluminescence**
+* **Triboluminescence**
+
+
+Measuring Luminous / Radiant Power
+========================================================
+
+introducing the [goniophotometer](https://www.youtube.com/watch?v=ikc9omyxoR0):
+
+<img src = "https://cdn.intertek.com/www-intertek-com/images/Global/blogs/2016/2016-07-19-gnb-blog-widebanner.jpg" height="65%" width="65%" />
+
+
+Luminous / Radiant Intensity
+========================================================
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFw_VWzK5PYnHrmIPXRrhfrGSrPdWulWgn6Q&usqp=CAU" height="100%" width="100%" />
+
+***
+
+* **Luminous Intensity** 
+  + light power emitted per solid angle by a point source
+  + Units: candela (cd) = lumen/steridian
+  + steridian (sr) = an SI derived unit of solid angle
+* **Radiant Intensity**
+  + radiant power emitted per solid angle by a point source
+  + Units: Watts/steridian
+  
+Measuring Luminous / Radiant Intensity
+======================================================== 
+a specific example: spectroradiophotometer
+
+<img src = "https://www.findlight.net/front-media/products/images/Rhea-spectroradiometer21501747956.png" />
+
+
+
+Luminance / Radiance
+========================================================
+
+<img src = "https://www.gigahertz-optik.de/assets/Uploads/Abb.-II.11-neu-v03.png" />
+
+***
+
+* **Luminance** 
+  + luminous intensity per unit area by an extended source
+  + Units: candela/$m^2$, Foot-lamberts
+* **Radiance**
+  + radiant intensity per unit area by an extended source
+  + Units: Watts/steridian/$m^2$
+  
+Measuring Luminance / Radiance
+======================================================== 
+...presenting a luminance meter:
+
+<img src = "https://www.kemek.eu/en/wp-content/uploads/2016/09/2943363460_5b2bccbc_150-370x220.jpg" height="50%" width="50%" />
+
+
+Illuminance / Irradiance
+========================================================
+
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkBAl3sPe_EbN7pu9AWdwgJMxdNUCVRipVg&usqp=CAU" height="100%" width="100%" />
+
+***
+
+* **Illuminance** 
+  + luminous intensity incident to a unit of surface area
+  + Units: lux, lumens/$m^2$, Foot-candles
+* **Irradiance**
+  + radiant intensity incident to a unit of surface area
+  + Units: Watts/$m^2$
+  
+Measuring Illuminance / Irradiance
+========================================================
+
+<img src = "https://images-na.ssl-images-amazon.com/images/I/71zydBwaYsL._AC_SL1500_.jpg" height="50%" width="50%" />  
+
+
+Relationship between Luminance & Illuminance / Radiance & Irradiance
+========================================================
+<br><br>  
+  
+**Inverse Square Law**
+$$\mbox{Intensity } = \frac{1}{\mbox{distance}^2} $$
+
+***
+
+<img src = "https://www.polmanminerals.com/assets/images/Inverse_Square_Law.jpg" />
+
+Concept Summary
+========================================================
+
+<img src = "https://rsagencies.co.za/wp-content/uploads/2015/10/Lighting-Measurements.jpg" />
+
+
+Concept Summary
+========================================================
+
+|        **Measurement**       |                    **Units**                   |                                        **What does it measure?**                                        |                                                                              **What do you measure it with?**                                                                              |
+|:----------------------------:|:----------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   Luminous / Radiant Power   |               Lumens / Watts/sec               |                    Total percieved light / radiant energy emitted from a light source                   |                                                              [Goniophotometer](https://en.wikipedia.org/wiki/Goniophotometer)                                                              |
+| Luminous / Radiant Intensity |          candela, lumen/sr / Watts/sr          |                Luminous power / radiant power emitted per solid angle  by a point source                |               [Spectroradiometer](https://en.wikipedia.org/wiki/Spectroradiometer#:~:text=A%20spectroradiometer%20is%20a%20light,obtained%20with%20a%20single%20acquisition.)              |
+|     Luminance / Radiance     |  candela/$m^2$, foot-lamberts / Watts/sr/$m^2$ | Luminous / radiant intensity per unit area of an extended source (Can be a light source or any surface) | [Luminance Meter](https://sensing.konicaminolta.us/us/technologies/luminance-meters/#:~:text=Luminance%20meters%20are%20single%20element,are%20lightweight%2C%20compact%20and%20portable.) |
+|   Illuminance / Irradiance   | lux, lumens/$m^2$, foot-candles / Watts/$m^2$$ | Luminous / Radiant intensity incident to a unit of surface area                                         | [Illuminance Meter](https://www.admesy.com/illuminance-meters-professional-applications/)                                                                                                  |
+
+Why the difference between photometric and radiometric quantities?
+========================================================
+
+<img src = "https://users.cs.cf.ac.uk/Dave.Marshall/Multimedia/Topic3.fig_18.gif" height="75%" width="75%" />
+
+
+========================================================
+<br><br>
+Let's explore this in more depth in this [jupyter notebook](https://github.com/SmilodonCub/myAnaconda/blob/master/Photometry.ipynb)
